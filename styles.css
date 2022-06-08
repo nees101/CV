@@ -1,0 +1,23 @@
+body{
+  margin:0;
+  font-size:16px;
+}
+
+.header{
+  background:#7ce8eb;
+}
+.header h2{
+  font-size:20px;
+  color:blue;
+}
+.header a{
+  text-decoration:none;
+  color:black;
+}
+.section{
+  padding:0 100px;
+}
+.section h3{
+    text-decoration:underline;
+    font-size:24px;
+}
